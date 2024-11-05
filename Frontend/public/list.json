@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "name":"DS", 
+        "title":"its a brand new boom plz go through ",   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740",
+        "pdfKey": "Repo.1.pdf.pdf"
+    },
+
+    {
+        "id":2,
+        "name":"algo", 
+        "title":"its a brand new boom plz go through"
+        ,   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740"
+        , "pdfKey": "Repo.2.pdf.pdf"
+    },
+
+    {
+        "id":3,
+        "name":"story book", 
+        "title":"its a brand new boom plz go through"
+        ,   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740"
+      , "pdfKey": "Repo.3.pdf.pdf"
+    },
+    {
+        "id":4,
+        "name":"story book", 
+        "title":"its a brand new boom plz go through"
+        ,   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740"
+     , "pdfKey": "Repo.4.pdf.pdf"
+    },
+
+    {
+        "id":5,
+        "name":"story book", 
+        "title":"its a brand new boom plz go through"
+        ,   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740"
+   , "pdfKey": "Repo.5.pdf.pdf"
+    },
+    
+    {
+        "id":6,
+        "name":"story book", 
+        "title":"its a brand new boom plz go through"
+        ,   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740"
+     , "pdfKey": "Repo.6.pdf.pdf"
+    },
+    
+    {
+        "id":7,
+        "name":"story book", 
+        "title":"its a brand new boom plz go through"
+        ,   
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727151739~exp=1727155339~hmac=824277e0fd0c19186cd768baf3b4aeaad1ba0f5f7905e9bddc4996429926700a&w=740"
+, "pdfKey": "Repo.7.pdf.pdf"
+    }
+      
+]
